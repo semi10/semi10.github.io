@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Moisture Soil Sensor BLE Hub
-date: 02/05/2020 18:26:00 +0300
+date: 02/05/2020 18:26:00 +0200
 description: Moisture Soil Sensor Hub Using cc2541 BLE module and Android App. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: moisture-soil-sensor-ble-hub-page.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Android, BLE, CC2541]
 ---
