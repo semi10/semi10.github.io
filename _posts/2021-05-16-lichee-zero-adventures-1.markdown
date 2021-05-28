@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Lichee ZERO Adventures
+title: Lichee ZERO Adventures Part-1
 date: 16-05-2021 9:30:00 +0200
 description: My Adventure with LicheePi Zero. # Add post description (optional)
 img: LicheePi-Zero-page.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Linux]
+tags: [Linux, Lichee ZERO]
 ---
 
 How to create bootable SDcard and turn on the screen.  
